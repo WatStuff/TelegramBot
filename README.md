@@ -1,1 +1,7 @@
 # TelegramBot
+
+This will be the bot for the telegram group under the name of Pandorrinos.
+<br /><br />
+<i>Are you ready?</i>
+<br />
+<i><b>WatStuff Team</b></i>
